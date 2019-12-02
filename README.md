@@ -2,7 +2,7 @@
 
 A crypto currency price checking app. It'll be able to monitor bitcoin, ethereum and litecoin investents on the move!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![bitcoin-flutter-demo](https://user-images.githubusercontent.com/50670255/69968157-da424b00-14e7-11ea-99ad-da5bd78abc07.gif)
 
 ## What I learned
 

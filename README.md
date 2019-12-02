@@ -1,4 +1,4 @@
-# Bitcoin Ticker
+# Bitcoin Ticker - Flutter
 
 A crypto currency price checking app. It'll be able to monitor bitcoin, ethereum and litecoin investents on the move!
 
